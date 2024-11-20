@@ -19,8 +19,8 @@ This dashboard is created using MongoDB Charts. It supports filtering, sorting, 
 ## Dataset
 👉 https://www.kaggle.com/datasets/shahriarkabir/crime-rate-by-country-2024?select=crime-rate-by-country-2024.json
 
-## Field	Type	Description
-**country**	(String) :	Name of the country.
+|  Field          |  Type          |  Description          |
+|  **country**          |  (String)          |  Name of the country.          |
 **crimeRateByCountry_crimeIndex**	(Float)	: Overall crime index for the country.
 **CrimeRate_OverallCriminalityScoreGOCI**	(Float)	: Overall criminality score (GOCI metric).
 **CrimeRate_CriminalMarketsScore**	(Float)	: Criminal markets' contribution to crime.

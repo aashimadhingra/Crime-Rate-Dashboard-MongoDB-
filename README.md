@@ -5,11 +5,11 @@ This repository hosts the code and resources for analyzing global crime rates an
 ## Project Overview
 The dashboard provides an intuitive and interactive way to analyze crime data across countries, highlighting key metrics like:
 
-**Crime Index by Country:** Compare the perceived crime levels across different countries.
-**Safety Index:** Visualize the perceived safety of each country.
-**Criminality Scores Breakdown:** Understand the contribution of various factors such as criminal markets and actors.
-**Resilience Score:** Assess a country's ability to combat crime and maintain order.
-**Heatmap Analysis:** Identify high and low values for multiple crime dimensions across countries.
+* **Crime Index by Country:** Compare the perceived crime levels across different countries.
+* **Safety Index:** Visualize the perceived safety of each country.
+* **Criminality Scores Breakdown:** Understand the contribution of various factors such as criminal markets and actors.
+* **Resilience Score:** Assess a country's ability to combat crime and maintain order.
+* **Heatmap Analysis:** Identify high and low values for multiple crime dimensions across countries.
 
 ## Dashboard
 👉 https://charts.mongodb.com/charts-project-0-wdxwsyh/public/dashboards/c610ef56-ddc6-4205-b775-15669953e22a

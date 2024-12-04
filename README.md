@@ -15,12 +15,12 @@ The dashboard provides an intuitive and interactive way to analyze crime data ac
 
 ![Screenshot 2024-11-23 114015](https://github.com/user-attachments/assets/9881b710-f583-4990-b314-883059878a0d)
 
-For more detailed view:- 👉 https://charts.mongodb.com/charts-project-0-wdxwsyh/public/dashboards/c610ef56-ddc6-4205-b775-15669953e22a
+For more detailed view:- 👉 [Link](https://charts.mongodb.com/charts-project-0-wdxwsyh/public/dashboards/c610ef56-ddc6-4205-b775-15669953e22a)
 
 This dashboard is created using MongoDB Charts. It supports filtering, sorting, and interactive exploration of crime metrics for the top 10 countries.
 
 ## Dataset
-👉 https://www.kaggle.com/datasets/shahriarkabir/crime-rate-by-country-2024?select=crime-rate-by-country-2024.json
+👉 [Link](https://www.kaggle.com/datasets/shahriarkabir/crime-rate-by-country-2024?select=crime-rate-by-country-2024.json)
 
 ![image](https://github.com/user-attachments/assets/b114db01-9175-4822-b474-8b2d857974bf)
 

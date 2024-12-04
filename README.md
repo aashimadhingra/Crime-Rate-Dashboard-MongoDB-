@@ -31,3 +31,19 @@ The dataset is stored in JSON format for seamless integration with MongoDB.
 * Interactive Visualizations: Analyze crime metrics via bar charts, heatmaps, pie charts, and scatter plots.
 * Top 10 Insights: Focus on the top 10 countries for each metric, enabling detailed comparisons.
 * Customizable: Easily extend the visualizations or dataset with additional data.
+
+* ![image](https://github.com/user-attachments/assets/0b1f65ec-a6be-4e68-9d82-17cde013da41)
+
+
+* ## Pie Chart for Overall Criminality Scores
+* **Implications:**
+
+Visualizes proportional contributions of crime types to overall criminality, helping prioritize interventions.
+Large segments (e.g., drug trafficking) demand immediate action, while smaller segments provide emerging threats to monitor.
+
+* **Managerial Insights:**
+
+Allocate funding and resources proportionally based on crime type dominance.
+Prepare contingency plans for smaller crime segments with growth potential.
+
+
